@@ -1,0 +1,558 @@
+{
+    "profile": {
+        "id": 2875,
+        "email": "grawl@ya.ru",
+        "name": "Grawl",
+        "creation_date": "2009-02-07T17:48:47.000Z",
+        "type": "FREE",
+        "email_allow_notification": "true",
+        "email_allow_research": "true"
+    },
+    "favorites": [
+        {
+            "artist": "Metallica",
+            "song": "Fade To Black",
+            "song_id": 20
+        },
+        {
+            "artist": "Marilyn Manson",
+            "song": "Sweet Dreams (Are Made Of This) (Eurythmics Cover)",
+            "song_id": 261
+        },
+        {
+            "artist": "Metallica",
+            "song": "Master Of Puppets",
+            "song_id": 298
+        },
+        {
+            "artist": "Pink Floyd",
+            "song": "Another Brick In The Wall",
+            "song_id": 303
+        },
+        {
+            "artist": "Metallica",
+            "song": "Sad But True",
+            "song_id": 317
+        },
+        {
+            "artist": "Linkin Park",
+            "song": "Papercut",
+            "song_id": 368
+        },
+        {
+            "artist": "Queen",
+            "song": "Another One Bites the Dust",
+            "song_id": 371
+        },
+        {
+            "artist": "Cranberries",
+            "song": "Zombie",
+            "song_id": 431
+        },
+        {
+            "artist": "Sepultura",
+            "song": "Roots Bloody Roots",
+            "song_id": 501
+        },
+        {
+            "artist": "Gorillaz",
+            "song": "Feel Good Inc.",
+            "song_id": 549
+        },
+        {
+            "artist": "Fear Factory",
+            "song": "Default Judgement",
+            "song_id": 7936
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Tear It Down",
+            "song_id": 9101
+        },
+        {
+            "artist": "Michael Jackson",
+            "song": "Beat It",
+            "song_id": 10259
+        },
+        {
+            "artist": "Korn",
+            "song": "Another Brick In The Wall",
+            "song_id": 11075
+        },
+        {
+            "artist": "Limp Bizkit",
+            "song": "Take A Look Around",
+            "song_id": 11443
+        },
+        {
+            "artist": "Mastodon",
+            "song": "Blood And Thunder",
+            "song_id": 12344
+        },
+        {
+            "artist": "Henry Mancini",
+            "song": "The Pink Panther Theme",
+            "song_id": 12968
+        },
+        {
+            "artist": "Metallica",
+            "song": "Damage, Inc",
+            "song_id": 13561
+        },
+        {
+            "artist": "Nightwish",
+            "song": "Slaying The Dreamer",
+            "song_id": 14115
+        },
+        {
+            "artist": "Linkin Park",
+            "song": "No More Sorrow",
+            "song_id": 20537
+        },
+        {
+            "artist": "Ill Niño",
+            "song": "What Comes Around",
+            "song_id": 22041
+        },
+        {
+            "artist": "Marilyn Manson",
+            "song": "If I Was Your Vampire",
+            "song_id": 22229
+        },
+        {
+            "artist": "Marilyn Manson",
+            "song": "Little Horn",
+            "song_id": 22236
+        },
+        {
+            "artist": "Marilyn Manson",
+            "song": "Seizure Of Power",
+            "song_id": 22249
+        },
+        {
+            "artist": "My Chemical Romance",
+            "song": "Teenagers",
+            "song_id": 22852
+        },
+        {
+            "artist": "Killswitch Engage",
+            "song": "My Curse",
+            "song_id": 23152
+        },
+        {
+            "artist": "Lamb Of God",
+            "song": "Walk With Me In Hell",
+            "song_id": 23662
+        },
+        {
+            "artist": "Disturbed",
+            "song": "The Night",
+            "song_id": 23783
+        },
+        {
+            "artist": "Lamb Of God",
+            "song": "Redneck",
+            "song_id": 24278
+        },
+        {
+            "artist": "Amatory",
+            "song": "Kiss My Blood",
+            "song_id": 25189
+        },
+        {
+            "artist": "Lordi",
+            "song": "Hard Rock Hallelujah",
+            "song_id": 30594
+        },
+        {
+            "artist": "Pantera",
+            "song": "5 Minutes Alone",
+            "song_id": 35396
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Pollution Of The Soul",
+            "song_id": 37309
+        },
+        {
+            "artist": "Ill Niño",
+            "song": "Predisposed",
+            "song_id": 38197
+        },
+        {
+            "artist": "Ill Niño",
+            "song": "If You Still Hate Me",
+            "song_id": 38204
+        },
+        {
+            "artist": "John Williams",
+            "song": "Star Wars",
+            "song_id": 39847
+        },
+        {
+            "artist": "Lamb Of God",
+            "song": "Pathetic",
+            "song_id": 41239
+        },
+        {
+            "artist": "Linkin Park",
+            "song": "Given Up",
+            "song_id": 41721
+        },
+        {
+            "artist": "Linkin Park",
+            "song": "Hit The Floor",
+            "song_id": 41731
+        },
+        {
+            "artist": "Mudvayne",
+            "song": "A Cinderella Story",
+            "song_id": 47928
+        },
+        {
+            "artist": "Nickelback",
+            "song": "Side Of A Bullet",
+            "song_id": 48518
+        },
+        {
+            "artist": "Slipknot",
+            "song": "Pulse Of The Maggots",
+            "song_id": 53807
+        },
+        {
+            "artist": "First Blood",
+            "song": "First Blood",
+            "song_id": 68368
+        },
+        {
+            "artist": "Black Strobe",
+            "song": "I'm A Man",
+            "song_id": 69030
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "As Diehard As They Come",
+            "song_id": 71324
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Between Hell And A Heartbeat",
+            "song_id": 71325
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Undiminished",
+            "song_id": 71327
+        },
+        {
+            "artist": "5 Diez",
+            "song": "Дождь",
+            "song_id": 77388
+        },
+        {
+            "artist": "Acacia Strain",
+            "song": "The Hills Have Eyes",
+            "song_id": 80818
+        },
+        {
+            "artist": "Acacia Strain",
+            "song": "Beast",
+            "song_id": 80819
+        },
+        {
+            "artist": "Tracktor Bowling",
+            "song": "Zavtra",
+            "song_id": 81234
+        },
+        {
+            "artist": "Amatory",
+            "song": "Спарта",
+            "song_id": 83444
+        },
+        {
+            "artist": "Amatory",
+            "song": "Обернуться Назад",
+            "song_id": 83515
+        },
+        {
+            "artist": "Amatory",
+            "song": "Другая Жизнь",
+            "song_id": 84684
+        },
+        {
+            "artist": "Смысловые Галлюцинации",
+            "song": "Вечно Молодой, Вечно Пьяный",
+            "song_id": 87832
+        },
+        {
+            "artist": "Terror",
+            "song": "Return To Strength",
+            "song_id": 92907
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Voice Of Contention",
+            "song_id": 305695
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Mind Over All",
+            "song_id": 305707
+        },
+        {
+            "artist": "Ill Niño",
+            "song": "Finger Painting",
+            "song_id": 307694
+        },
+        {
+            "artist": "Ill Niño",
+            "song": "Rumba",
+            "song_id": 307702
+        },
+        {
+            "artist": "Acacia Strain",
+            "song": "Tactical Nuke",
+            "song_id": 334754
+        },
+        {
+            "artist": "Hatebreed",
+            "song": "Not My Master",
+            "song_id": 379708
+        },
+        {
+            "artist": "Noize Mc",
+            "song": "Устрой Дестрой",
+            "song_id": 385342
+        },
+        {
+            "artist": "Linkin Park",
+            "song": "A Line In The Sand",
+            "song_id": 397281
+        },
+        {
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "song_id": 434943
+        },
+        {
+            "artist": "Metallica",
+            "song": "Nothing Else Matters",
+            "song_id": 439171
+        }
+    ],
+    "subscriptions": [],
+    "uploads": [
+        {
+            "id": 95447,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Спрут",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5697621.gp5"
+        },
+        {
+            "id": 95451,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Хентай",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5731809.gp5"
+        },
+        {
+            "id": 95452,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Амадель",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5731852.gp5"
+        },
+        {
+            "id": 95453,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Дождь (акустика)",
+            "difficulty": "Beginner",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5732095.gp5"
+        },
+        {
+            "id": 95454,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Дождь",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5732099.gp5"
+        },
+        {
+            "id": 95455,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Моя Весна",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5732627.gp5"
+        },
+        {
+            "id": 95457,
+            "comment": "Initial revision",
+            "artist": "5 Diez",
+            "song": "Ощути Настоящее",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/5733111.gp5"
+        },
+        {
+            "id": 216843,
+            "comment": "Initial revision",
+            "artist": "Hatebreed",
+            "song": "Not My Master",
+            "difficulty": "Beginner",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/11910794.gp4"
+        },
+        {
+            "id": 227720,
+            "comment": "Initial revision",
+            "artist": "Noize Mc",
+            "song": "Устрой Дестрой",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/14858416.gp5"
+        },
+        {
+            "id": 236746,
+            "comment": "Initial revision",
+            "artist": "Catharsis",
+            "song": "Крылья",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/15333119.gp5"
+        },
+        {
+            "id": 247056,
+            "comment": "Initial revision",
+            "artist": "Hatebreed",
+            "song": "Voice Of Contention",
+            "difficulty": "Beginner",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/15873440.gp5"
+        },
+        {
+            "id": 252210,
+            "comment": "add bends.\r\nP.M.'s are not too much?",
+            "artist": "Lamb Of God",
+            "song": "Pathetic",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/16122077.gp5"
+        },
+        {
+            "id": 309620,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Спрут",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322884.gp5"
+        },
+        {
+            "id": 309623,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Хентай",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322887.gp5"
+        },
+        {
+            "id": 309624,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Амадель",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322888.gp5"
+        },
+        {
+            "id": 309625,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Дождь (акустика)",
+            "difficulty": "Beginner",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322889.gp5"
+        },
+        {
+            "id": 309626,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Дождь",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322890.gp5"
+        },
+        {
+            "id": 309627,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Моя Весна",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322891.gp5"
+        },
+        {
+            "id": 309628,
+            "comment": "Rerendering",
+            "artist": "5 Diez",
+            "song": "Ощути Настоящее",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/23322892.gp5"
+        },
+        {
+            "id": 333977,
+            "comment": "Initial revision",
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/31906002.gp5"
+        },
+        {
+            "id": 333980,
+            "comment": "Change guitar to electric; some improvements",
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/31906138.gp5"
+        },
+        {
+            "id": 333983,
+            "comment": "Change tune to Drop A; some improvements",
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/31906184.gp5"
+        },
+        {
+            "id": 333985,
+            "comment": "Much better",
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/31906458.gp5"
+        },
+        {
+            "id": 333986,
+            "comment": "Tune speed exact as original song plays",
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/31906481.gp5"
+        },
+        {
+            "id": 342463,
+            "comment": "speed",
+            "artist": "Fear Factory",
+            "song": "Bonescraper",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/36152775.gp5"
+        },
+        {
+            "id": 366597,
+            "comment": "Initial revision",
+            "artist": "Dj Snake & Lil Jon",
+            "song": "Turn Down For What",
+            "difficulty": "Intermediate",
+            "url": "http://d12drcwhcokzqv.cloudfront.net/38511397.gp5"
+        }
+    ],
+    "error_reports": [],
+    "error_reports_comments": [],
+    "error_reports_flags": [],
+    "chords_preferences": []
+}
